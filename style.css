@@ -1,6 +1,5 @@
 body{
     margin: 0;
-    background: pink;
     text-align: center;
     display: block;
 }
@@ -9,5 +8,5 @@ iframe{
     display: block;
     border: none;
     width: 100vw;
-    height: 100vh;
+    height: 80vh;
 }
